@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+}
+.topBtn{
+    border-radius: 5px;
+    padding: 20px 20px;
+    font-weight: bold;
+}
+.topBtn:hover{
+    cursor: pointer;
+    background-color: darkcyan;
+}
